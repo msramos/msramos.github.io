@@ -1,0 +1,69 @@
+baseURL: 'https://marcosramos.dev/'
+languageCode: en-us
+title: Marcos Ramos
+theme: PaperMod
+enableEmoji: true
+params:
+  env: production
+  title: Marcos Ramos
+  keywords:
+    - Blog
+    - Portfolio
+  author:
+    - Marcos Ramos
+  comments: false
+  ShowShareButtons: true
+  ShowReadingTime: true
+  ShowBreadCrumbs: true
+  ShowPostNavLinks: true
+  ShowCodeCopyButtons: true
+  ShowToc: true
+  homeInfoParams:
+    Title: "Hello \U0001F44B\U0001F3FB"
+    Content: |
+      Welcome to my personal website!
+
+      Here you will find some blog posts, contact
+      information and more!
+  socialIcons:
+    - name: github
+      url: 'https://github.com/msramos'
+    - name: twitter
+      url: 'https://twitter.com/rmsmrcs'
+    - name: linkedin
+      url: 'https://www.linkedin.com/in/rmcsmrcs'
+    - name: telegram
+      url: 'https://t.me/MarcosRamos'
+    - name: email
+      url: mailto://rms.mrcs@gmail.com
+    - name: rss
+      url: index.xml
+permalinks:
+  blog: 'blog/:year/:month/:title/'
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+taxonomies:
+  category: categories
+  tag: tags
+  series: series
+menu:
+  main:
+    - identifier: blog
+      name: Blog
+      url: /blog/
+      weight: 10
+    - identifier: archives
+      name: Archive
+      url: /archives/
+      weight: 15
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 20
+    - identifier: search
+      name: Search
+      url: /search/
+      weight: 30
