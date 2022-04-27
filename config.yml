@@ -3,6 +3,8 @@ languageCode: en-us
 title: Marcos Ramos
 theme: PaperMod
 enableEmoji: true
+enableRobotsTXT: true
+
 params:
   env: production
   title: Marcos Ramos
@@ -38,17 +40,26 @@ params:
       url: mailto://rms.mrcs@gmail.com
     - name: rss
       url: index.xml
+
+  editPost:
+      URL: "https://github.com/msramos/msramos.github.io/tree/main/content"
+      Text: "Suggest Changes"
+      appendFilePath: true
+
 permalinks:
   blog: 'blog/:year/:month/:title/'
+
 outputs:
   home:
     - HTML
     - RSS
     - JSON
+
 taxonomies:
   category: categories
   tag: tags
   series: series
+
 menu:
   main:
     - identifier: blog
@@ -67,3 +78,8 @@ menu:
       name: Search
       url: /search/
       weight: 40
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
