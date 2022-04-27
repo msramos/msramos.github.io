@@ -5,6 +5,8 @@ theme: PaperMod
 enableEmoji: true
 enableRobotsTXT: true
 
+googleAnalytics: G-4M93XLTSFC
+
 params:
   env: production
   title: Marcos Ramos
