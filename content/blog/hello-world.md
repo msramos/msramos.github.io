@@ -2,7 +2,7 @@
 title: "Hello World"
 summary: "A hello world indeed"
 description: "Yep, this is the first post"
-date: 2021-10-14T20:00:00-03:00
+date: 2021-10-15T20:00:00-03:00
 draft: false
 tags: ['blog']
 ---
