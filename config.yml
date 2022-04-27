@@ -41,10 +41,14 @@ params:
     - name: rss
       url: index.xml
 
+  analytics:
+    google:
+      SiteVerificationTag: "G-4M93XLTSFC"
+
   editPost:
-      URL: "https://github.com/msramos/msramos.github.io/tree/main/content"
-      Text: "Suggest Changes"
-      appendFilePath: true
+    URL: "https://github.com/msramos/msramos.github.io/tree/main/content"
+    Text: "Suggest Changes"
+    appendFilePath: true
 
 permalinks:
   blog: 'blog/:year/:month/:title/'
