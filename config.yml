@@ -39,7 +39,7 @@ params:
     - name: telegram
       url: 'https://t.me/MarcosRamos'
     - name: email
-      url: mailto://rms.mrcs@gmail.com
+      url: mailto:rms.mrcs@gmail.com
     - name: rss
       url: index.xml
 
