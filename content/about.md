@@ -1,3 +1,3 @@
 ---
-title: "About me" # in any language you want
+title: "About me"
 ---

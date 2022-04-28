@@ -16,6 +16,7 @@ params:
   author:
     - Marcos Ramos
   comments: false
+  ShowFullTextinRSS: true
   ShowShareButtons: true
   ShowReadingTime: true
   ShowBreadCrumbs: true
