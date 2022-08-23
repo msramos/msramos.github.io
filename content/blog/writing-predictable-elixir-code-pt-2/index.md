@@ -1,6 +1,6 @@
 ---
 title: "Writing Predictable Elixir Code with Reducers - Part 2"
-date: 2022-07-22T20:00:00-03:00
+date: 2022-08-22T20:00:00-03:00
 draft: false
 # weight: 1
 # aliases: ["/first"]
@@ -13,7 +13,7 @@ hidemeta: false
 comments: false
 summary: "Writing Predictable Elixir Code with Reducers - Part 2. Published on AppSignal Blog."
 description: "Using Reducers and Macros to Write Predictable Code. Published on AppSignal Blog."
-canonicalURL: "https://marcosramos.dev/blog/2022/07/writing-predictable-elixir-code-pt-1"
+canonicalURL: "https://marcosramos.dev/blog/2022/08/writing-predictable-elixir-code-pt-2"
 disableShare: false
 disableHLJS: false
 hideSummary: false
