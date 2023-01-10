@@ -13,7 +13,7 @@ hidemeta: false
 comments: false
 summary: "Debugging in Elixir and Erlang: An Introduction. Published on AppSignal Blog."
 description: "How to use Elixir built-in feature to create beautiful code. Published on AppSignal Blog."
-canonicalURL: "https://marcosramos.dev/blog/2022/11/debugging-pt-1"
+canonicalURL: "https://marcosramos.dev/blog/2022/11/debugging-in-elixir-and-erlang-part-1-an-introduction/"
 disableShare: false
 disableHLJS: false
 hideSummary: false
