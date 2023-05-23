@@ -8,9 +8,6 @@ on Elixir.</p>
 local or distributed applications.</p>
 <p><a href="https://blog.appsignal.com/2023/01/10/debugging-and-tracing-in-erlang.html">Link: Debugging and Tracing in Erlang</a></p>
 <p>Published on AppSignal Blog.</p>
-]]></content:encoded></item><item><title>Bottle Cap</title><link>https://marcosramos.dev/3d-printing/test/</link><pubDate>Sun, 01 Jan 2023 20:00:00 -0300</pubDate><guid>https://marcosramos.dev/3d-printing/test/</guid><description>Yep, this is the first post</description><content:encoded><![CDATA[<p>As every developer in the world, I always wanted to create a blog to share my
-ideas and some interesting (at least for me) stuff here and there.</p>
-<p>And as <em>almost</em> all of them, I was always postponing it. No more!</p>
 ]]></content:encoded></item><item><title>Debugging in Elixir and Erlang - Part 1: An Introduction</title><link>https://marcosramos.dev/blog/2022/11/debugging-in-elixir-and-erlang-part-1-an-introduction/</link><pubDate>Tue, 29 Nov 2022 10:00:00 -0300</pubDate><guid>https://marcosramos.dev/blog/2022/11/debugging-in-elixir-and-erlang-part-1-an-introduction/</guid><description>How to use Elixir built-in feature to create beautiful code. Published on AppSignal Blog.</description><content:encoded><![CDATA[<p>This is the first part of a series about debugging and tracing tools on Elixir.
 It covers the very basic tooling that you can use to start debugging Elixir apps
 and paves the way for the second part where I’ll talk about distributed
